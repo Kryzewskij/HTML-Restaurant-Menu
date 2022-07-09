@@ -65,6 +65,7 @@ nav a:hover {
 
 .service {
     display: inline-block;
+    text-align:center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
@@ -83,4 +84,22 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.highlight {
+    color: rgb(55, 2, 247);
+}
+#holiday {
+    width: 100%;
+    padding: 25px;
+    background-color: rgb(52, 212, 237);
+}
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(244, 244, 106);
+}
+
+footer p {
+    color: black;
 }
